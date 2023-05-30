@@ -30,7 +30,7 @@
                                  console.log('minValue del if: ' + minValue)
                                  return true;
                       }
-                                 //creo que no lo pude terminar bien 
+                                 //creo que no lo pude terminar bien.
 
            }
          
